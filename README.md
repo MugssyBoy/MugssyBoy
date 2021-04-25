@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=MugssyBoy&count_private=true)
-
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MugssyBoy&langs_count=5&theme=tokyonight)]()
 <!--
 **MugssyBoy/MugssyBoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
